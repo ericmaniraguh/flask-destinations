@@ -1,0 +1,12 @@
+blinker
+click
+Flask   
+Flask-sqlalchemy
+greenlet
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy
+Werkzeug
+typing-extensions
+oracledb

@@ -153,3 +153,7 @@ Several scripts are included to help manage the database:
 - `models.py`: Defines the database schema (SQLAlchemy models).
 - `database.py`: Handles database connection and initialization.
 - `requirements.txt`: List of python dependencies.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
