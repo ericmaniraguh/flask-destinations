@@ -5,7 +5,7 @@ class Destination(db.Model):
     destination = db.Column(db.String(100))
     country = db.Column(db.String(100)) 
     rating = db.Column(db.Float)
-    image = db.Column(db.String(200))
+    image = db.Column(db.String(500))
 
     # Convert to dictionary which facilitate the conversion to JSON
     def to_dict(self):
