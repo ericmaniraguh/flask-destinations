@@ -10,3 +10,4 @@ SQLAlchemy
 Werkzeug
 typing-extensions
 oracledb
+flask_cors
