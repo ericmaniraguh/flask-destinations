@@ -144,7 +144,6 @@ Several scripts are included to help manage the database:
 
 - `recreate_tables.py`: **CAUTION**. Drops the `destination` table and recreates it. Useful for resetting the schema (e.g., adding sequences for Auto-Increment).
 - `check_tables.py`: Checks connection and lists available tables in the database.
-- `seed_destinations.py`: Adds sample data (8 destinations) to the database for testing.
 
 ## Project Structure
 
@@ -153,3 +152,7 @@ Several scripts are included to help manage the database:
 - `models.py`: Defines the database schema (SQLAlchemy models).
 - `database.py`: Handles database connection and initialization.
 - `requirements.txt`: List of python dependencies.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
